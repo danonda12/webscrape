@@ -1,0 +1,5 @@
+requests
+~treamlit
+pandas
+beautifulsoup4
+streamlit
